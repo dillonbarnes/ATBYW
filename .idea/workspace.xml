@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a604832b-09e7-4e68-8a4b-9b59a0b7749e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/curseforge/wiki/2020-12-24_09.09.45.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/curseforge/wiki/2020-12-24_09.10.06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/curseforge/wiki/O53KhiYj1k.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/curseforge/wiki/bookshelf_toggles.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ATBYW.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ATBYW.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ATBYW.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ATBYW.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/curseforge/wiki/crafting_table_cycling_recipes.psd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/curseforge/wiki/crafting_table_cycling_recipes.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +80,11 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/assets/atbyw/models/block" />
@@ -95,6 +96,13 @@
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Draws\MC\Mod_Creation\Code\My Mods\fabric\ATBYW\src\main\resources\assets\curseforge\wiki" />
+      <recent name="G:\Draws\MC\Mod_Creation\Code\My Mods\fabric\ATBYW\src\main\resources\assets\curseforge" />
+      <recent name="G:\Draws\MC\Mod_Creation\Code\My Mods\fabric\ATBYW\src\main\resources\assets\atbyw\models\block\concrete\stairs" />
+      <recent name="G:\Draws\MC\Mod_Creation\Code\My Mods\fabric\ATBYW\src\main\resources\data\atbyw\recipes" />
+      <recent name="G:\Draws\MC\Mod_Creation\Code\My Mods\fabric\ATBYW\src\main\resources\data\atbyw\loot_tables\blocks" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Draws\MC\Mod_Creation\Code\My Mods\fabric\ATBYW\src\main\resources\assets\curseforge\wiki" />
       <recent name="G:\Draws\MC\Mod_Creation\Code\My Mods\fabric\ATBYW\src\main\resources\assets\curseforge" />
@@ -113,32 +121,27 @@
       <recent name="net.azagwen.atbyw.mixin" />
       <recent name="net.azagwen.atbyw.blocks" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\Draws\MC\Mod_Creation\Code\My Mods\fabric\ATBYW\src\main\resources\assets\curseforge\wiki" />
-      <recent name="G:\Draws\MC\Mod_Creation\Code\My Mods\fabric\ATBYW\src\main\resources\assets\curseforge" />
-      <recent name="G:\Draws\MC\Mod_Creation\Code\My Mods\fabric\ATBYW\src\main\resources\assets\atbyw\models\block\concrete\stairs" />
-      <recent name="G:\Draws\MC\Mod_Creation\Code\My Mods\fabric\ATBYW\src\main\resources\data\atbyw\recipes" />
-      <recent name="G:\Draws\MC\Mod_Creation\Code\My Mods\fabric\ATBYW\src\main\resources\data\atbyw\loot_tables\blocks" />
-    </key>
   </component>
-  <component name="RunManager" selected="Gradle.ATBYW [remapJar]">
-    <configuration name="ATBYW [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.ATBYW [build]">
+    <configuration name="ATBYW [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="check" />
+            <option value="build" />
           </list>
         </option>
-        <option name="vmOptions" />
+        <option name="vmOptions" value="" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <configuration name="ATBYW [genSources]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -157,7 +160,9 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <configuration name="ATBYW [javadoc]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -176,7 +181,9 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <configuration name="ATBYW [migrateMappings]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -195,7 +202,9 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <configuration name="ATBYW [remapJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -214,16 +223,18 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ATBYW [build]" />
         <item itemvalue="Gradle.ATBYW [remapJar]" />
         <item itemvalue="Gradle.ATBYW [genSources]" />
         <item itemvalue="Gradle.ATBYW [javadoc]" />
         <item itemvalue="Gradle.ATBYW [migrateMappings]" />
-        <item itemvalue="Gradle.ATBYW [check]" />
       </list>
     </recent_temporary>
   </component>
@@ -239,6 +250,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -561,6 +573,17 @@
     <option name="localTasksCounter" value="45" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
@@ -589,160 +612,6 @@
     <MESSAGE value="finishing touches" />
     <MESSAGE value="wiki media" />
     <option name="LAST_COMMIT_MESSAGE" value="wiki media" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="269" y="1114" key="#Plugins" timestamp="1608459604062">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="269" y="1114" key="#Plugins/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608459604062" />
-    <state x="407" y="1211" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1608551082846">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="407" y="1211" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608551082846" />
-    <state x="131" y="1111" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608452178330">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="131" y="1111" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608452178330" />
-    <state x="414" y="1259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607880776807">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="414" y="1259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1607880776807" />
-    <state x="482" y="1165" key="#com.intellij.ide.util.MemberChooser" timestamp="1608480048400">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="482" y="1165" key="#com.intellij.ide.util.MemberChooser/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608480048400" />
-    <state x="474" y="1341" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608470557210">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="474" y="1341" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608470557210" />
-    <state x="474" y="1362" width="444" height="186" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1608588897537">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="474" y="1362" width="444" height="186" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608588897537" />
-    <state x="160" y="1058" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608719026318">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="160" y="1058" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608719026318" />
-    <state x="205" y="1283" width="941" height="343" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1607964276882">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="205" y="1283" width="941" height="343" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1607964276882" />
-    <state x="424" y="1316" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1608418135457">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="424" y="1316" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608418135457" />
-    <state x="0" y="1058" key="CommitChangelistDialog2" timestamp="1608802980067">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="0" y="1058" key="CommitChangelistDialog2/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608802980067" />
-    <state x="91" y="1117" width="1156" height="703" key="DiffContextDialog" timestamp="1608458979069">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="91" y="1117" width="1156" height="703" key="DiffContextDialog/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608458979069" />
-    <state x="457" y="1211" key="FileChooserDialogImpl" timestamp="1608473049916">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="457" y="1211" key="FileChooserDialogImpl/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608473049916" />
-    <state x="559" y="1349" width="258" height="211" key="Github.ShareDialog" timestamp="1607809493127">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="559" y="1349" width="258" height="211" key="Github.ShareDialog/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1607809493127" />
-    <state x="375" y="1161" key="Github.UntrackedFilesDialog" timestamp="1607809201936">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="375" y="1161" key="Github.UntrackedFilesDialog/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1607809201936" />
-    <state width="1309" height="295" key="GridCell.Tab.0.bottom" timestamp="1608771521399">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state width="1309" height="295" key="GridCell.Tab.0.bottom/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608771521399" />
-    <state width="1309" height="295" key="GridCell.Tab.0.center" timestamp="1608771521399">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state width="1309" height="295" key="GridCell.Tab.0.center/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608771521399" />
-    <state width="1309" height="295" key="GridCell.Tab.0.left" timestamp="1608771521399">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state width="1309" height="295" key="GridCell.Tab.0.left/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608771521399" />
-    <state width="1309" height="295" key="GridCell.Tab.0.right" timestamp="1608771521399">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state width="1309" height="295" key="GridCell.Tab.0.right/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608771521399" />
-    <state width="1309" height="249" key="GridCell.Tab.1.bottom" timestamp="1608459517138">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state width="1309" height="249" key="GridCell.Tab.1.bottom/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608459517138" />
-    <state width="1309" height="249" key="GridCell.Tab.1.center" timestamp="1608459517138">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state width="1309" height="249" key="GridCell.Tab.1.center/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608459517138" />
-    <state width="1309" height="249" key="GridCell.Tab.1.left" timestamp="1608459517138">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state width="1309" height="249" key="GridCell.Tab.1.left/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608459517138" />
-    <state width="1309" height="249" key="GridCell.Tab.1.right" timestamp="1608459517138">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state width="1309" height="249" key="GridCell.Tab.1.right/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608459517138" />
-    <state x="158" y="1145" width="981" height="707" key="SettingsEditor" timestamp="1608459645371">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="158" y="1145" width="981" height="707" key="SettingsEditor/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608459645371" />
-    <state x="398" y="1197" width="540" height="524" key="StructurePopup" timestamp="1608692877319">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="398" y="1197" width="540" height="524" key="StructurePopup/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608692877319" />
-    <state x="439" y="1172" key="VCS.ChangeListViewerDialog" timestamp="1608336259315">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="439" y="1172" key="VCS.ChangeListViewerDialog/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608336259315" />
-    <state x="269" y="1189" key="Vcs.Push.Dialog.v2" timestamp="1608802981720">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="269" y="1189" key="Vcs.Push.Dialog.v2/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608802981720" />
-    <state x="492" y="1234" key="chooseDestDirectoryDialog" timestamp="1608698807856">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="492" y="1234" key="chooseDestDirectoryDialog/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608698807856" />
-    <state width="1350" height="792" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1607856394137">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state width="1350" height="792" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1607856394137" />
-    <state x="373" y="1280" key="com.intellij.ide.util.TipDialog" timestamp="1607416985829">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="373" y="1280" key="com.intellij.ide.util.TipDialog/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1607416985829" />
-    <state x="486" y="1373" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608336247090">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="486" y="1373" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608336247090" />
-    <state x="253" y="1192" width="846" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1608453939607">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="253" y="1192" width="846" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1608453939607" />
-    <state x="435" y="1058" width="917" height="794" key="find.popup" timestamp="1607964618582">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="435" y="1058" width="917" height="794" key="find.popup/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1607964618582" />
-    <state x="117" y="1076" key="new project wizard" timestamp="1607220274305">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="117" y="1076" key="new project wizard/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1607220274305" />
-    <state x="383" y="1075" key="refactoring.ChangeSignatureDialog" timestamp="1607203306615">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="383" y="1075" key="refactoring.ChangeSignatureDialog/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1607203306615" />
-    <state x="333" y="708" key="run.anything.popup" timestamp="1607964647933">
-      <screen x="0" y="0" width="1445" height="846" />
-    </state>
-    <state x="333" y="708" key="run.anything.popup/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1607964647933" />
-    <state x="486" y="1114" key="scopes" timestamp="1607964536183">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="486" y="1114" key="scopes/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1607964536183" />
-    <state x="66" y="1127" width="1264" height="678" key="search.everywhere.popup" timestamp="1607963982782">
-      <screen x="0" y="1058" width="1352" height="794" />
-    </state>
-    <state x="66" y="1127" width="1264" height="678" key="search.everywhere.popup/0.0.1445.846/0.1058.1352.794@0.1058.1352.794" timestamp="1607963982782" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
